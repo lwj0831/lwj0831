@@ -53,6 +53,16 @@ I don't just write code. I enjoy the **full loop**: understanding user needs, de
 
 ---
 
+### 📌 Featured Projects
+
+**Mongle** — Map-based community for international students (200+ users, live in production)
+
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/%EB%AA%BD%EA%B8%80-mongle/id6753180069)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mongle&hl=ko)
+[![Backend Repo](https://img.shields.io/badge/Backend-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/map-community)
+
+---
+
 ### 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/wjl0831@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjl0831@gmail.com)
